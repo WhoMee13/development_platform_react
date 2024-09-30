@@ -11,3 +11,6 @@ body,#root{
   position: relative;
   overflow-y: auto;
 }
+tr img{
+  max-height: 30px;
+}
